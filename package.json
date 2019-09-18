@@ -1,0 +1,28 @@
+{
+  "name": "magiccap-types",
+  "version": "1.0.0",
+  "description": "All types that plugins will need for MagicCap.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magiccap/magiccap-types.git"
+  },
+  "keywords": [
+    "types",
+    "magiccap",
+    "ts"
+  ],
+  "author": "Jake Gealer",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/magiccap/magiccap-types/issues"
+  },
+  "homepage": "https://github.com/magiccap/magiccap-types#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
